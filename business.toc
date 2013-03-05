@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Disclaimer}{2}
+\contentsline {section}{\numberline {2}Executive summary}{4}
+\contentsline {section}{\numberline {3}Vision statement}{4}
+\contentsline {section}{\numberline {4}Market Analysis}{4}
+\contentsline {subsection}{\numberline {4.1}Market Drivers}{4}
+\contentsline {subsection}{\numberline {4.2}Market Segments}{4}
+\contentsline {subsection}{\numberline {4.3}The Opportunity for SubZero Ice}{4}
+\contentsline {section}{\numberline {5}Products and Services We Offer}{4}
+\contentsline {section}{\numberline {6}Business Model \& Structure}{5}
+\contentsline {subsection}{\numberline {6.1}Longterm \& Shorterm Goals}{5}
+\contentsline {subsection}{\numberline {6.2}Current Equity Structure}{5}
+\contentsline {subsection}{\numberline {6.3}Management team}{5}
+\contentsline {section}{\numberline {7}Competition}{5}
+\contentsline {subsection}{\numberline {7.1}Competitive Advantage}{5}
+\contentsline {section}{\numberline {8}Intellectual Property Assets}{5}
+\contentsline {subsection}{\numberline {8.1}Patents}{5}
+\contentsline {subsection}{\numberline {8.2}Know-How}{5}
+\contentsline {subsection}{\numberline {8.3}Future Intellectual Property Development}{5}
+\contentsline {section}{\numberline {9}Business Development Plan}{5}
+\contentsline {subsection}{\numberline {9.1}Current Structure \& Resources}{5}
+\contentsline {subsection}{\numberline {9.2}Sales process}{5}
+\contentsline {subsection}{\numberline {9.3}Target customers}{5}
+\contentsline {subsection}{\numberline {9.4}Current key customers}{5}
+\contentsline {subsection}{\numberline {9.5}Marketing, PR and Communications}{5}
+\contentsline {subsection}{\numberline {9.6}Staff Recuritment}{5}
+\contentsline {subsection}{\numberline {9.7}Facilities}{5}
+\contentsline {section}{\numberline {10}Financial Plan \& Funding}{5}
+\contentsline {section}{\numberline {11}Risk Analysis \& Exit Strategy}{6}
+\contentsline {section}{\numberline {12}Corportate Information \& Contact Details}{6}
