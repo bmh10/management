@@ -1,5 +1,6 @@
 \documentclass{article}
 \usepackage{graphicx}
+\usepackage{array}
 \begin{document}
 
 % --- TITLE PAGE --- %
@@ -49,17 +50,36 @@ Nick \textsc{Coutts}
 
 %Disclaimer page
 
-%TODO: Add table here see original example template
-
 \section{Disclaimer}
 This business plan has been prepared by SubZero Ice and is being provided to a limited number of persons, at their request.  This document is confidential and is only being made available to parties who agree to keep it confidential.  Neither this business plan nor any part of it shall be copied, reproduced or distributed to others at any time without the prior written consent of SubZero Ice. By accepting this document the recipient is deemed to undertake and warrant to SubZero Ice that the recipient will keep it confidential and that the recipient shall return all copies of this document to SubZero Ice immediately upon request.
 Although SubZero Ice has taken reasonable care to ensure that the information contained in this document is accurate, no other representation or warranty, express or implied, is or will be given by SubZero Ice or any of its agents.  No responsibility is or will be accepted by SubZero Ice or any of its agents as to the accuracy or completeness of this document or the information or opinions contained herein.  Recipients must make their own investigations and must satisfy themselves as to the condition and prospects of SubZero Ice and the accuracy and completeness of statements contained herein.
 Any financial projections given in this plan are illustrative only.  Because of the early stage nature of SubZero Ice’s business, none of the projections given in this document should be taken as guaranteed to be attainable, nor should they be taken as implying any indication, assurance or guarantee that those assumptions are correct or exhaustive.
 
 %TODO: Add table here see original example template
-\pagebreak
+\begin{center}
+  \begin{tabular}{ | l | c | }
+    \hline
+    Date Modified: & 10/03/2013 \\[2ex] \hline
+    Document Version & V1.0 \\[2ex] \hline
+    Author/Editor: & bmh10, cmn10, gl10, jbw10, mjs10, tg10 \\[2ex]
+    \hline
+  \end{tabular}
+\end{center}
 
-\tableofcontents
+\newcolumntype{C}[1]{%
+ >{\vbox to 5ex\bgroup\vfill\centering}%
+ p{#1}%
+ <{\egroup}}  
+
+\bgein{center}
+\begin{tabular}{| C{3cm} | C{5cm} |} 
+    \hline
+    Issued to:     & ............................. \tabularnewline \hline
+    Company:       & ............................. \tabularnewline \hline
+    Date of issue: & ............................. \tabularnewline \hline
+    Copy number:   & ............................. \tabularnewline \hline
+  \end{tabular}
+\end{center}
 
 \pagebreak
 
@@ -67,97 +87,135 @@ Any financial projections given in this plan are illustrative only.  Because of 
 
 \section{Executive summary}
 
-SubZero Ice is an innovative business aimed at providing ice-cream in a more personal, novel and exciting way. Our patented process allows us to use liquid-nitrogen as a freezing agent, providing customers with a fantastic visual display as they await their ice-cream. What sets us apart from our competition is that our ice-cream is not pre-prepared, but is made directly in front of our customers using the ingredients they choose. 
-Interest in our product has already been shown by several companies including London Science Museum, Alton Towers, Odeon Cinemas and London Royal Parks. We have provided our product at events at London Design Museum, National Space Centre and the Tate Modern.
+SubZero Ice is an innovative business aimed at providing ice-cream in a more personal, novel and exciting way. Our patented process allows us to use liquid-nitrogen as a freezing agent, providing customers with delicious, velvety smooth ice-cream along with a fantastic visual display as they watch their chosen ice-cream being prepared. What sets us apart from the competition is our focus on providing a unique customer experience as well as producing the highest quality ice-cream. In addition our instantly recognisable laboratory-themed stalls and enthusiastic ice-cream makers ensure that no one can pass us by unnoticed. We also pride ourselves on our use of fresh, organic ingredients in all of our products. \\
+
+At the current time our main business focus is on acquiring a positive reputation at prestigious public events throughout the UK. During this period of growth and learning our business has recieved a remarkable amount of interest from some of the major event organisers in the UK as well as some press coverage. We have recieved hundreds of invitations to operate our stalls at public events, however given the relative age of our business coupled with our rapid success, we currently do not have to capital required in order to meet the demands of our expanding customer base. Having seen firsthand how customers react to our product we believe that it is time to take our relatively small business to the next level, hopefully expanding the area within which we operate to the whole of the UK. \\
+
+Some of the companies that have already shown an interest in our business include the London Science Museum, Alton Towers, Odeon Cinemas, London Royal Parks and the organisers of music and arts festivals such as Glastonbury, Reading and Latitude. We have provided ice-cream and entertainment with much success at a large variety of events and demonstrations across England.
+
 
 \section{Vision statement}
 
-Our goal is not only to provide great tasting ice-cream but also to provide our customers with an unique and memorable experience. We hope that our appealing laboratory-themed stalls will soon be seen in many tourist locations and at large events throughout the UK.
-We also aim to streamline our equipment which will allow our product to be introduced to establishments in the hospitality sector such as bars and nightclubs.
+Our main goal is and always will be not only to provide great tasting ice-cream for our customers but also to provide them with an memorable experience. We strongly believe that their is a direct relationship between the amount of fun our staff are having and the number of customers we can attract. We also place the highest priority on producing quality ice-cream as we realise that even if the novelty of our product begins to fade over time, we will still be making the tastiest ice-cream on the market. \\
 
-Consumer and regulatory pressure
- - Always pressure from consumers for new exciting products.
+%add more here
 
- - Pressure to create a product which will capture the imaginations of
-consumers more than competing products.
-
-ethics.
-fairtrade - look at poverty + with partners
-health - healthier than normal ice cream due to fresh ingredients and less use of preservatives
-eco(water recycling, using up all ingredients) - recycle waste. recycle all water. solar energy. supply of ingredients and LN2.
-
-type = corporation
-
+Assuming that we manage to raise enough capital to expand our business activites over the next few years, we plan to focus our attention on scaling up our resources to match our ever increasing customer demand. At the same time we hope to branch out in other directions by introducing new products and also streamlining our specialised equipment which will allow our products to be introduced to establishments in the hospitality sector such as at bars and cafes.
 
 \section{Market Analysis}
-  \subsection{Market Drivers}
+  
+  Before delving into our business structure and our ideas for the future we though it would be wise to give a general overview of the current state of the ice-cream and conveniene foods markets so that the reader can gain a deeper insight into the current climate we are working in.
 
- - Liquid nitrogen products are expanding as a market (eg: cocktails/
-other ice cream firms) therefore demand for them increasing
+  \subsection{Market Drivers and Trends}
 
- - Events and hospitality companies are constantly looking to put
-on more of a show to gain the advantage over competitors – this
-should generate sales as we get more widespread.
+   We first take a look at current trends within the markets we are involved with and relate each observation to our own business. We hope that by predicting the direction the market will take we will be able to meet and exceed our customer's expectations.
+   
+  \begin{itemize}
+  \item The ice-cream market boasted a 9\% value growth in 2012, an improvement over the increase seen in 2011. It is believed that this increase is mainly due to good product innovation, large marketing campaigns and a renewed desire to purchase indulgance foods in the UK. The London Olymipics has also had a large impact on the ice-cream market with sales expected to top the £1bn mark for the first time in 2013. We therefore feel that now would be a great time to expand our business to take advantage of this period of value growth in the market.
 
- - We are at the forefront of developing market and want to grow this
-market through the hospitality industry.
+  \item It has been noted by several market experts that people do not seem to be holding back on purchasing culinary treats even during times of economic challenge. The ice-cream market has even seen growth during some of the hardest periods for the UK economy. It has been suggested that people are seeking comfort foods more often as a result of increased stress, leading to overall market growth.
 
- - We believe that we provide a better, more scalable product than
-competitors and are therefore in prime position to take the majority
-of the market share.
+  \item The use of liquid nitrogen in consumer food products is increasing as more businesses turn to \"molecular gastronomy\" (the science of investigating and explaining how physical and chemical transformations can be made during cooking) in order to improve the taste and visual appeal of thier products. For example, some modern chefs use liquid nitrogen in the kitchen to change the consitancy of food. The cocktail industry have already taken note of this trend and have started to introduce products which use liquid nitrogen, mainly for its visual effect. We predict that in the future more companies will turn to molecular gastronomy in order to gain a competitive advantage. Since we have patented our unique ice-cream making process, which makes use of liquid nitrogen, we feel that we are in a strong position to take the majority market share for our niche in the market. 
 
- - Historically successful ice-cream products are primarily those
-which have the most market appeal and capture the consumers
-imagination. With our product we hope to generate lots of consumer
-interest through our unique approach to ice-cream. However,
-in order to retain our customers our ice-cream must also taste
-better than our competitors. We believe our fresh ingredients and
-luxuriously smooth ice-cream will ensure that this is the case.
+  \item Events and hospitality companies are constantly looking to put on more of a show to gain an advantage over competitors and attract more people. Large festivals such as the main music festivals are attracting more people each year. We therefore intend to make it a priority to have stalls at these events as they will give us a lot of public exposure. We currently have a strong relationship with some of the major event mangers in the UK and we hope to solidify our partnership with them even more in the future.
+
+  \item Historically successful ice-cream products are primarily those which have the most market appeal and capture the consumers imagination. With our product we hope to generate lots of consumer interest through our unique approach to ice-cream. However, in order to retain our customers our ice-cream must also taste better than our competitors. We believe our fresh ingredients and luxuriously smooth ice-cream will ensure that this is the case. It is generally accepted that innovation will be the main driver of growth over the next few years, with many ice-cream companies focussing on developing new products, particularly in the premium segment, as indulgence remains a key consumer trend. We believe that our product will be able to satisfy this desire for innovation and quality seen at the current time, while also being more affordable than most of the premium brands on the market.
+
+   \item In comparison to the ice-cream market, the frozen yoghurt market is relativaly underdeveloped and is therefore an area of opportunity. At SubZero Ice we have already begun researching how we can use our patented process to produce frozen yoghurts in the future.
+
+  \end{itemize}
+
 
   \subsection{Market Segments}
-  \subsection{The Opportunity for SubZero Ice}
-  Introduction to the market...
 
-   - With current technology must target venue hire
+  The ice-cream products currently on sale can be roughley segmented as the diagram below shows.
+  %\includegraphics[scale=0.3]{pricepyramid.gif}
+
+  Value ice-cream brands are the most common. The products in this segment are often fairly inexpensive and the companies that produce them rely on selling large quanties to make a significant profit, however they typically cost less to produce so the relative profit per unit sold may actually be higher. At the other end of the spectrum are premium brand ice-creams. The products in this segment typically cost much more the design, produce and package. Brands in the premium segment are typically marketed more heavily that value brands. However since the products are more luxurious, more can be charged for products in this category and hence the average transaction value is greater. Additionally ice-cream products can be segmented further into products which are designed to be eaten out of the home or in the home. Obviously brands which are designed for home consumption can sell their ice-cream in larger tubs. This usually means that the customer pays more in a single transaction and they also get more ice-cream for their money. Ice-creams which target outdoor consumption are usually not as good value for the customer, however they are essentially paying for the convenience of being able to buy a product which is prepacked in such a way that it is easy to eat.
+
+
+  \subsection{The Opportunity for SubZero Ice}
+
+  We strongly believe that there is a great opportunity for SubZero Ice given the current market state and our current standing. We are at the forefront of our market niche and have already established ourselves as an exciting and innovative new brand. As already mentioned, premium brands are becoming increasingly popular in the UK. At SubZero Ice we intend to sell our ice cream as a premium brand in order to take advantage of this trend. However, since we are selling our ice-creams directly to the consumer, we can afford to spend more on making sure our ice-creams have the best taste on the market since we do not have to spend as much on packaging and storing our ice-creams. Additionally we intend to do things a little differently from the majority of the market, by making ice-cream which not only tastes better than that of our competitors but is also delivered to the customer in a more exciting and personal way. \\
+
+We aim to continue to target large public events as this is what we do best. However we also hope to branch out...
+
+  We aim to 
+
+   - Further opportunities
 
    - Interest expressed by other firms eg: Odeon
 
-  Target market
+  Target market - tourists, guests and families at large events of all varieties and developing prepackaged products which we can sell via retailers
 
   Market Context
 
-  Market size \& characteristics
+  Market size \& characteristics - very few ice-cream vendors who sell from stalls
 
   Market Validation
 
 
 \section{Products and Services We Offer}
-  Detail of what we are actually going to offer
+  %Detail of what we are actually going to offer
+
+  SubZero Ice offers customers a unqiue experience and ice-cream like no other on the market. We offer ice-cream made using our patented process which involves the use of liquid nitrogen as the freezing agent. Normally during the freezing process ice-cream is frozen relatively slowly meaning that the ice-cream containes large ice crystals. The advantage of using liquid nitrogen to freeze the ice-cream is that, due to the instantenous freezing, much smaller ice crystals are formed making the texture of the ice-cream much smoother and locking in more flavour. Through much research and experimentation we have come up with a process that produces perfect ice-cream everytime. \\
+
+Since our ice-creams are made infront of our customers we can also offer much more choice than other brands on the market. The customer can specify which ingredients they would like including in their ice-cream. Given that we stock around 15 different ingredients at our stalls, the combinations are almost endless. This also means that we can cater for all personal preferences as our customers can choose how healthy or luxurious they would like their ice-cream to be. \\
+
+At SubZero Ice we place great importance on being both ethical and economical within all spheres of business. All our stalls use solar panels to generate energy and our staff all follow a strict recycling policy which helps us to reduce costs as well as doing our bit for the environment. The majority of our fresh ingredients are fairtrade and organic as we believe that in order to make the best ice-cream we need to use the best ingredients. We also provide comprehensive training for all our staff to ensure that they can safely handle liquid nitrogen. \\
+
+As well as offering the tastiest ice-cream on the market we aim to provide entertainment to all of our customers. As mentioned the use of liquid nitrogen is the secret to making our ice-cream so delicious, however it also creates a great visual spectacle. Additionally our stalls are specifically designed to fit in with the scientific nature of our ice-cream production. The stalls are designed to look like laboratories, with numerous test tubes and flasks filled with colourful liquids along the front of the stalls. Are staff also dress in lab coats and goggles to add to the visual appeal. Due to our focus on creating highly visual stalls we usually find that we manage to attract many more interested customers than similar convinience food stalls nearby. \\
+  
+%
+  Current products - ice-cream and frozen yoghurt (very underdeveloped market - chance to change this)
+    -- fresh ingredients, keep use of preservatives to a minimum
+
+  Stall/Staff overview
+
+  Future products
+%
+
+In terms of future products we are already experimenting with using variations of our patented process in order to produce frozen yoghurt products. The frozen yoghurt market is very underdeveloped compared to the ice-cream market so we feel that it will be benifical to expand our product range to include them. Longer term we hope to introduce some of our products, perhaps prepacked, into the mainstream ice-cream market to be sold by retailers. We are also looking at the possibility of modifying our equipment so that is can be used in permenant shops.
+
 
 \section{Business Model \& Structure}
-  How the business will actually work
+  %How the business will actually work
 
-Workers cooperative model???????????
+SubZero Ice is a worker cooperative meaning that all of our staff can have a say on any decisions which need to be made. This structure has helped us to create a workforce who intrinsically care about the business and its future. 
 
-Suits set up of company (started by group of friends)
-
-Means every stall holder/operator is interested in business development
-
-Currently have sold … and have established technology
+Currently have sold ... and have established technology
 
 Currently have capability to operate … stalls
 
 Currently marketing via word of mouth as well as ringing venues.
 Hoping to establish long term customers.
 
-Distribution model ??????
+Our distribution model is currently focussed on providing ice-creams from our stalls at large events.
 
-Supply chain??
+Distribution model ??????
+ - target large public events in UK
+ - future move into small permenant shops
+ - possibly move into the prepackaged ice-cream market to be sold at retailers
+
+In terms of our supply chain we have a good relationship with all of our suppliers. Below we list our current suppliers and what they procide for us.
+
+Supply chain
+- suppliers of LN2
+- suppliers of ice-cream ingredients
+- who makes specialised stalls for us?
 
   \subsection{Longterm \& Shorterm Goals}
 
+    Shorterm goals
+
+    Maximise number of sales & expand business using money from investors
+
     objective - maximise sales -> how
 
+    Longterm goals
+
+    Design new products - specifically forzen yoghurt products
+    Prepackaged ice-cream products
      % summary of detailed plan including
 	% prioritisation
 	% validation
@@ -169,19 +227,21 @@ Supply chain??
   \subsection{Management team}
 
 Jon Watson has many years experience working with and managing small
-businesses. He prides himself on the fact that every small business which he
-has managed has gone on to be highly successful. His attention to detail and
-vast experience working with start-ups make him an invaluable leader and we
-feel privileged that he has chosen to work with us. He is considered an expert in
-discovering what makes a small businesses tick and in finding ways to develop
-a unique culture within a business.
+businesses. He prides himself on the fact that every small business which he has managed has gone on to be highly successful. His attention to detail and vast experience working with start-ups make him an invaluable leader and we feel privileged that he has chosen to work with us. He is considered an expert in discovering what makes a small businesses tick and in finding ways to develop a unique culture within a business.
 
 
 \section{Competition}
+
+  Unilever UK Ltd is currently the leading business in the ice-cream market, with a 30\% market share in 2012. The company's retail sales saw a 22\% increase during the same year, indicating the level of growth the market is currently going through. Unilevers most popular brands are Magnum and Cornetto. They are also the global business operators of Ben \& Jerry's, Cart D'Or and Walls. The company continues to offer new varients on existing products which have all been well recieved by the public. Recently they have also been spending large amounts on advertising which has also increased their success. For example the release of Ben \& Jerry's Core range was supported by a huge £5 million advertising campaign.
+
+  R\&R Ice Cream are the other notable market leader, owning brands such as Nestle, Ribena, Kelly's of Cornwall and Thorntons.  
   Small number of direct competitors
 
-  Certainly none with the success and interest that we have already
-generated
+  Certainly none with the success and interest that we have already generated
+
+  In terms of mainstream ice-cream companies...
+
+    We believe that we provide a better, more scalable product than our direct competitors and are therefore in prime position to take the majority of the market share within our niche.
 
 
   \subsection{Competitive Advantage}
@@ -217,7 +277,7 @@ successful, especially during the first few years of business.
 \section{Intellectual Property Assets}
 
   \subsection{Patents}
-    Patented process
+    %Patented process
 
 In terms of technology we currently use standard liquid nitrogen storage tanks at our stalls. Our innovation is not in the technology we use but in how we use it. All of our equipment is carefully designed to fit in with our stores' laboratory theme. We also use smoke machines and coloured smoke to make our stalls look more visually appealing.
 
@@ -248,69 +308,68 @@ installations
 
  - Odeon, Alton Towers, Thorpe Park?
 
-   LTV = (Tn + ATV + LT) - (CoA + CoR) 
+   LTV = (Tn + ATV + LT) - (CoA + CoR)
+       = (no + average transaction value + lifetime value) - (cost of aquisition + cost of retention) 
 
   \subsection{Current key customers}
 
-  Currently provided product as one off temporary stall for ….
+  Currently provided product as one off temporary stall for 
 
   They have expressed interest in returning to us
 
   \subsection{Marketing, PR and Communications}
-  At the moment our main form of marketing are the stalls themselves.
-Given the exciting way we present our product the stalls often generate
-a lot interest, which large groups of people watching our ice-cream
-being made simply out of interest before they make a purchase.
+  At the moment our main form of marketing are the stalls themselves. Given the exciting way we present our product the stalls often generate a lot interest, which large groups of people watching our ice-cream being made simply out of interest before they make a purchase.
 
-In the future as we move into more permanent fixtures we hope to use
-more traditional marketing methods.???
+  In the future as we expand and move into more permanent fixtures we hope to use more traditional marketing methods.
 
-We are currently developing a website which we think will play a vital
-role in generating more consumer interest. Through this website we will
-give our customers the opportunity to contact us and leave feedback on
-their experience with our product.
+  We are currently developing a website which we think will play a vital role in generating more consumer interest. Through this website we will give our customers the opportunity to contact us and leave feedback on their experience with our product.
 
-We also wish to focus strongly on interacting with social media sites
-such as Facebook and Twitter as we believe this will allow us to quickly
-generate interest, receive comments and interact directly with our
-customers. Additionally this will allow us to collect information about
-our customers, for example the average age of our customers. It is with
-such information that we hope to be able to tailor our future marketing.
+  We also wish to focus strongly on interacting with social media sites such as Facebook and Twitter as we believe this will allow us to quickly generate interest, receive comments and interact directly with our customers. Additionally this will allow us to collect information about our customers, for example the average age of our customers. It is with such information that we hope to be able to tailor our future marketing.
 
-In order to generate interest online we will hold regular competitions
-and prize draws, in which the winners will receive vouchers to spend on
-our ice-cream. We also plan to video some of our stalls in action and
-post on YouTube.???
+  In order to generate interest online we will hold regular competitions and prize draws, in which the winners will receive vouchers to spend on our ice-cream. We also plan to video some of our stalls in action and post on YouTube.???
 
   \subsection{Staff Recuritment}
 
+  Currently all of our staff operate from our headquarters in central London. As our customer base expands we will need to recruit the following staff:
 
- - Staff to work at stalls – require training + health and safety
-requirements
+ \bf{Ice-cream Makers} – ice-cream makers are the life and soul of SubZero Ice. In order to qualify for the role candidates will have to show genuine enthusiasm and commitment to the company as well as being able to work well under pressure infront of crowds. Candidates must also be very flexible as they will have to travel to different locations each day if not working at a fixed stall. All ice-cream makers will receive suitable training and must pass a health and safety test to ensure they can safely handle liquid nitrogen and that they understand the risks of using liquid nitrogen on a daily basis. Perks include free entry to large festivals, free ice-cream and the opportunity to have fun at work.
 
- - Marketing and PR staff
+ \bf{Marketing and PR Staff} - our marketing staff have the huge responsibility of creating relationships with potential clients (event managers) and generating public interest in our unique brand and products. They have the opportunity to shape our future and maximise our success. In order too qualify candidates must have a flair for marketing, be able to listen to the ideas of others and give constructive feedback. Some members of the PR staff will also be responsible for managing our online prescence by replying to customers, making note of customer feedback and creating competitions and prize-draws for customers.
 
- - Product Designers
+\bf{Product Designers} - our product designers must realise what our customers want before they want it. In order to qualify for this role candidates must have worked with at least one previous product design team and be able to think laterally. Product designers work with our current brand and public image to create new and exciting products. At SubZero Ice we are not scared of change and so we also encourage our product designers to be innovative by having weekly meetings in which adventourous theories or experimental product ideas can be discussed and shared.
 
- - Transport team – responsible for transporting stalls and equipment to events and setting them up, following high safety standards
+\bf{Transport Team} – our transport team are responsible for moving our stalls and equipment to events and setting them up. They are also responsible for taking all equipment back to our nearest storage hold after it has been used. All candidates must have a full UK driving license and will be given relevant health and safety training on starting. Members of the transport team must be flexible as they will have different working hours depending on which events we are currently operating at. They may also have to transport our equipment from one storage depot to another when we require more equipment in a certain area of the country.
 
- - Finance team
+ \bf{Finance Team} - our finance team are responsible for assessing our current finances, analysing what could be done better and producing financial projections. All canditates must have a strong mathematical background and the desire to make a positive difference to our company. As a business we do not want to rely on gut feelings as to what is optimal for our business but on real world data and mathematical models. Our finance team are therefore responsible for deciding how we should balance our spending as a company in order to increase our profit and the overall value of SubZero Ice.
 
- - Legal team
+ \bf{Legal Team} - we will require a small team of specialised legal associates who can advise us on legal matters especially as our business grows and we receive more clients. Although members of the legal team will technically be external to the company, they will all be granted membership of the business cooperative and hence will be able to buy and sell shares within the company.
+
 
   \subsection{Facilities}
 
-UK HQ requires an office in London
+  We already own a small office in central London from which we operate.
+  Will need large office as number of staff increases.
 
-Place to store all equipment when not in use
+  Currently store equipment in a storage warehouse when not in use.
+  Will need new storage locations around the country to make access to equipment easier.
 
 
-\section{Financial Plan \& Funding}
+\section{Funding \& Financial Plan}
 Add more subsections
 
-50 litre liquid nitrogen tanks – around £1000
+We are looking to raise £5 million in captial, to allow us to expand our business and develop our range of products.
 
-Each litre of liquid nitrogen costs around £1.25
+Main costs:
+ - Stalls - LN2 tanks + supply - 50 litre liquid nitrogen tanks – around £1000 and Each litre of liquid nitrogen costs around £1.25
+ - Transport vechicles
+ - Storage space
+ - Staff recruitment and wages
+ - New London HQ - expand existing offices - £0.5 million
+ - Ice cream ingredients
+ - Marketing and website
+
+
+
 
 Each litre of ice-cream requires...
 
@@ -327,12 +386,24 @@ More marketing needed
 
 Need to grow beyond London
 
+Professional website and web prescence on social media sites
+
+
+SHARES
+
+Revenue from sales in the previous year was around £3.5 million. (total income without subtracting any expenses) 
+Gross profit of £2.9 million (difference between sales and cost of sales i.e. revenue - cost of goods)
+Net profit of £1.8 million (actual profit when all expenses are subtracted)
+
+%Graph to show financial growth over first year of business
+
+
 revenue
  - retail
    licence
    other sales
 
-profit
+profit/net income
  - gross
    net
    EBITDA
@@ -342,6 +413,8 @@ costs
  ...
 
 \section{Risk Analysis \& Exit Strategy}
+
+Little risk as we are already an established business, struggling to keep up with customer demands
 
 
 
