@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.11.23)  10 MAR 2013 18:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.8)  10 MAR 2013 20:58
 entering extended mode
  %&-line parsing enabled.
 **business.tex
 (./business.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, ngerman, german, german-x-2009-06-19, ngerman-x-2009-06-19, ukengli
+sh, loaded.
 (/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-texlive/tex/latex/base/size10.clo
@@ -42,7 +43,7 @@ File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
 \Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen103
@@ -71,7 +72,7 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
-(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+(/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen107
@@ -205,17 +206,75 @@ ngredients.co.uk/
 [9] [10]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [11] [12]
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+[11] [12]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
  [13]
-Overfull \hbox (3.85246pt too wide) in paragraph at lines 343--344
+Overfull \hbox (3.85246pt too wide) in paragraph at lines 328--329
 \OT1/cmr/m/n/10 cream. We also plan to video some of our stalls in ac-tion and 
 post on YouTube.??? 
  []
 
-[14] [15]
+[14] [15] <startupFinance.png, id=60, 291.33844pt x 261.22594pt>
+File: startupFinance.png Graphic file (type png)
+
+<use startupFinance.png>
+<startupFinanceData.png, id=61, 642.90187pt x 438.13687pt>
+File: startupFinanceData.png Graphic file (type png)
+
+<use startupFinanceData.png>
+Overfull \hbox (606.46024pt too wide) in paragraph at lines 369--371
+[][] [] 
+ []
+
+[16] <firstSixMonths.png, id=65, 321.45094pt x 410.2828pt>
+File: firstSixMonths.png Graphic file (type png)
+
+<use firstSixMonths.png> [17 <./startupFinance.png (PNG copy)> <./startupFinanc
+eData.png (PNG copy)>]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+ [18 <./firstSixMonths.png (PNG copy)>]
+<grossMarginAndProfitProjection.png, id=73, 242.40562pt x 210.7875pt>
+File: grossMarginAndProfitProjection.png Graphic file (type png)
+
+<use grossMarginAndProfitProjection.png>
+<proFormaProfit3Years.png, id=74, 418.56375pt x 413.29407pt>
+File: proFormaProfit3Years.png Graphic file (type png)
+
+<use proFormaProfit3Years.png>
+Overfull \hbox (333.18994pt too wide) in paragraph at lines 394--396
+[][] [] 
+ []
+
+[19 <./grossMarginAndProfitProjection.png (PNG copy)> <./proFormaProfit3Years.p
+ng (PNG copy)>]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -233,25 +292,35 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no £ in font cmr10!
- [16] [17] (./business.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+[21] (./business.aux) ) 
 Here is how much of TeX's memory you used:
- 973 strings out of 495061
- 12173 string characters out of 1182620
- 65016 words of memory out of 3000000
- 4193 multiletter control sequences out of 15000+50000
+ 996 strings out of 495000
+ 12775 string characters out of 1180494
+ 64758 words of memory out of 3000000
+ 4231 multiletter control sequences out of 15000+50000
  7315 words of font info for 26 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
+ 36 hyphenation exceptions out of 8191
  25i,9n,19p,1293b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></u
-sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
-mf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/
-public/amsfonts/cm/cmti12.pfb>
-Output written on business.pdf (18 pages, 189444 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmti12.pfb>
+Output written on business.pdf (22 pages, 299025 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 107 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
