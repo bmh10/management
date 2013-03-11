@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage{graphicx}
 \usepackage{array}
+\usepackage{fullpage}
 \begin{document}
 
 % --- TITLE PAGE --- %
@@ -181,7 +182,7 @@ Assuming that we manage to raise enough capital to expand our business activites
 
   \item {\bf Ice-cream Makers} - responisible for selling ice-cream from stalls at events and putting on a show for customers.
 
-  \item Transport - responsible for transporting equipment to and from events and ensuring all equipment is safely stored in our storage depots.
+  \item {\bf Transport} - responsible for transporting equipment to and from events and ensuring all equipment is safely stored in our storage depots.
   
   \end{itemize}
 
@@ -206,6 +207,8 @@ Assuming that we manage to raise enough capital to expand our business activites
   \end{itemize}
 
   \subsection{Current Equity Structure}
+
+  Our equity structure at SubZero Ice reflects our cooperative ideals. Upon completing a probationary period of six months, all new employees are declared members of the cooperative and are given a single share in the company. This gives each member in the company the power to manage the coop, without there being any one person who owns the whole company which fits in with our egalitarian ethos. Within the UK this system is referred to as common ownership and simply means that rather than having a single owner, all of our members are held to be trustees of the company and assets for future generations. All shares are currently held within the company.
 
   \subsection{Technical Expertise}
 
@@ -265,65 +268,87 @@ Assuming that we manage to raise enough capital to expand our business activites
 
 \section{Business Development Plan}
 
-  %TODO
+  Over the next few years we are planning to expand our business in order to meet the increasing demand from our clients. Below we outline our action plan to ensure that this growth takes place in a stable and manageable way.
 
-  % summary of detailed plan including
-  % prioritisation
-  % validation
-  % offers
-  % routes to market
+  \subsection{Current Situation, Resources \& Facilities}
 
-  \subsection{Current Situation \& Resources}
+  We are currently in a strong position following a successful first six months of trading. However given the vast amount of public interest we have recieved and the number of clients requesting that we take stalls to their events next year, we need to undergo some expansion if we are to make the most of the opportunities available to us. Our financial summary for the first six months of business can be seen in the Financial Plan section below. \\
 
-  Currently have sold ... and have established technology
+  Below we list the resources we have managed to acquire and discuss our future plans for them.
+  \begin{itemize}
 
-Currently have capability to operate … stalls
+  \item {\bf 30 members} - During the first six months we have employed 10 new members, primariliy to help with transport and ice-cream making duties due to the unforeen rise in demand and interest.
+
+  \item 10 stalls - We currently own ten customised stalls which are held in our storage depots when no in use at events. Over the next year we will definately need to purchase more stalls in order to service demand.
+
+  \item London office (HQ) - Our main office is based in central London as has provided a good base from which to work, as our business expands we will begin to look into larger offices suitable for our increased number of members.
+
+  \item Storage depots in London and Birmingham - We currently lease two storage depots, one in central London and the other in Birmingham due to it central location within England. The storage space provided is ample for our needs now and most likely over the coming year, however if our business expands it may be more practical to lease another depot in Yorkshire.
+
+  \item 14 Liquid nitrogen storage tanks - Our liquid nitrogen storage tanks are stored with our stalls at the storage depots. As we purchase more stalls we will also need to buy more tanks. We also keep some tanks in reserve for particularly large events or when we are unsure about expected event attendence.
+
+  \item Ice-cream ingredients - Our ingredients are delivered to us as close to an event as possible in order to ensure maximum taste and freshness.
+
+  \end{itemize}
+
 
   \subsection{Longterm \& Shorterm Goals}
 
-    Shorterm goals
+  In order to effectively plan for the future we have decided on some primary goals. Our primary short-term goals are as follows.
+  \begin{enumerate}
 
-    Maximise number of sales and expand business using money from investors
+    \item Maximise number of sales and expand business hopefully using money from investors to kickstart growth.
 
-    objective - maximise sales -> how
+    \item Focus heavily on marketing and increasing awareness and interest in SubZero Ice, particularly through our online presence on social media websites.
+  \end{enumerate}
 
-    Longterm goals
+  Our primary Long-term goals are as follows.
+  \begin{enumerate}
 
-    Design new products - specifically forzen yoghurt products
-    Prepackaged ice-cream products
+    \item Continue to focus on and be recognised for our dedication to product innovation.
 
-  \subsection{Sales process}
+    \item Become the largest independent ice-cream supplier at events in the UK.
+
+    \item Ensure our cooperative values continue to be adhered to at all times.
+  \end{enumerate}
+
+  \subsection{Sales process \& Pricing}
+
+  We plan to keep our sales process and pricing structure the same as during the previous 6 months. With our sales taking place at our contracted events and the pricing scheme as follows.
+
+  %Tables
+\begin{center}
+  \begin{tabular}{ | l | c | }
+    \hline
+    1 scoop & £2.75 \\[2ex] \hline
+    2 scoops & £3.90 \\[2ex] \hline
+    3 scoops & £4.55 \\[2ex] \hline
+    Extra toppings & £0.30 each \\[2ex] \hline
+  \end{tabular}
+\end{center}
 
   \subsection{Target customers}
-Tourists of all ages. Especially families with children and young adults
-who are more likely to be at festivals.
 
- - Want to move away from small temporary stalls to more permanent
-installations
+  In general we will continue to target customers at large public events of all varieties. When considering the lifetime value of our customers, the main factor we wish to maximise is their average transaction value and the number of transactions they make within a period. Given the nature of our business and the novelty of our product we intend to focus on attracting a large number of customers at events rather than on customer retention, though we are sure that the taste of our ice-cream will be a winning factor when it comes to drawing customers back. \\
 
- - Want to target large customers in the hospitality sector
+  Looking more long-term we want to target more permenant contracts at tourist locations and within the entertainment sector. For example we intend to continue discussing possible contracts with Odeon, Alton Towers and Thorpe Park.
 
- - Odeon, Alton Towers, Thorpe Park?
+  \subsection{Current Key Customers \& Contacts}
 
-   LTV = (Tn + ATV + LT) - (CoA + CoR)
-       = (no + average transaction value + lifetime value) - (cost of aquisition + cost of retention) 
+  Our current key customers include...
+  \begin{itemize}
 
-  \subsection{Current key customers}
+  \item {\bf Hotbox Events} - Hotbox Events are reposnsible for recruiting volunteers and enlisting stalls at major music festivals such are Latitude, Reading and Leeds festivals. They are a key client in that they allow us access to a huge number of potential customers at the festivals they manage.
 
-  Currently provided product as one off temporary stall for 
+  \item {\bf DC Site Services} - DC Site Services follow a similar protocol to Hotbox Events and allow us access to many more festivals including some smaller festivals which are also great for generating public interest.
 
-  They have expressed interest in returning to us
+  \item {\bf Workers Beer Company} - Though an unusual contact for an ice-cream business, the Workers Beer Company provide bars for events throughout the UK, including Glastonbury and the BBC Proms. Their knowledge and experience within the events hosting business has proved invaluable during our first few months of business. They have provided us with opportunities alongside them at some of their contracted events, which have provided us with a large amount of publicity.
+
+  \end{itemize}
 
   \subsection{Marketing, PR and Communications}
-  At the moment our main form of marketing are the stalls themselves. Given the exciting way we present our product the stalls often generate a lot interest, which large groups of people watching our ice-cream being made simply out of interest before they make a purchase.
 
-  In the future as we expand and move into more permanent fixtures we hope to use more traditional marketing methods.
-
-  We are currently developing a website which we think will play a vital role in generating more consumer interest. Through this website we will give our customers the opportunity to contact us and leave feedback on their experience with our product.
-
-  We also wish to focus strongly on interacting with social media sites such as Facebook and Twitter as we believe this will allow us to quickly generate interest, receive comments and interact directly with our customers. Additionally this will allow us to collect information about our customers, for example the average age of our customers. It is with such information that we hope to be able to tailor our future marketing.
-
-  In order to generate interest online we will hold regular competitions and prize draws, in which the winners will receive vouchers to spend on our ice-cream. We also plan to video some of our stalls in action and post on YouTube.???
+  At the moment our main form of marketing are the stalls themselves. Given the exciting way we present our product the stalls often generate a lot interest, whith large groups of people watching our ice-cream being made simply out of interest before they make a purchase. We are currently developing a website which we think will play a vital role in generating more consumer interest. Through this website we will give our customers the opportunity to contact us and leave feedback on their experience with our product. We also wish to focus strongly on interacting with social media sites such as Facebook and Twitter as we believe this will allow us to quickly generate interest, receive comments and interact directly with our customers. Additionally this will allow us to collect information about our customers, for example the average age of our customers. It is with such information that we hope to be able to tailor our future marketing and product development. In order to generate interest online we will hold regular competitions and prize draws, in which the winners will receive vouchers to spend on our ice-cream. We also plan to video some of our ice-cream makers in action and post them online.
 
   \subsection{Staff Recuritment}
 
@@ -333,29 +358,19 @@ installations
 
   As our customer base contniues to expand we will need to recruit the following staff: \\
 
-{\bf Ice-cream Makers} - ice-cream makers are the life and soul of SubZero Ice. In order to qualify for the role candidates will have to show genuine enthusiasm and commitment to the company as well as being able to work well under pressure infront of crowds. Candidates must also be very flexible as they will have to travel to different locations each day if not working at a fixed stall. All ice-cream makers will receive suitable training and must pass a health and safety test to ensure they can safely handle liquid nitrogen and that they understand the risks of using liquid nitrogen on a daily basis. Perks include free entry to large festivals, free ice-cream and the opportunity to have fun at work. \\
+  {\bf Ice-cream Makers} - ice-cream makers are the life and soul of SubZero Ice. In order to qualify for the role candidates will have to show genuine enthusiasm and commitment to the company as well as being able to work well under pressure infront of crowds. Candidates must also be very flexible as they will have to travel to different locations each day if not working at a fixed stall. All ice-cream makers will receive suitable training and must pass a health and safety test to ensure they can safely handle liquid nitrogen and that they understand the risks of using liquid nitrogen on a daily basis. Perks include free entry to large festivals, free ice-cream and the opportunity to have fun at work. \\
 
-{\bf Marketing and PR Staff} - our marketing staff have the huge responsibility of creating relationships with potential clients (event managers) and generating public interest in our unique brand and products. They have the opportunity to shape our future and maximise our success. In order too qualify candidates must have a flair for marketing, be able to listen to the ideas of others and give constructive feedback. Some members of the PR staff will also be responsible for managing our online prescence by replying to customers, making note of customer feedback and creating competitions and prize-draws for customers. \\
+  {\bf Marketing and PR Staff} - our marketing staff have the huge responsibility of creating relationships with potential clients (event managers) and generating public interest in our unique brand and products. They have the opportunity to shape our future and maximise our success. In order too qualify candidates must have a flair for marketing, be able to listen to the ideas of others and give constructive feedback. Some members of the PR staff will also be responsible for managing our online prescence by replying to customers, making note of customer feedback and creating competitions and prize-draws for customers. \\
 
-{\bf Product Designers} - our product designers must realise what our customers want before they want it. In order to qualify for this role candidates must have worked with at least one previous product design team and be able to think laterally. Product designers work with our current brand and public image to create new and exciting products. At SubZero Ice we are not scared of change and so we also encourage our product designers to be innovative by having weekly meetings in which adventourous theories or experimental product ideas can be discussed and shared. \\
+  {\bf Product Designers} - our product designers must realise what our customers want before they want it. In order to qualify for this role candidates must have worked with at least one previous product design team and be able to think laterally. Product designers work with our current brand and public image to create new and exciting products. At SubZero Ice we are not scared of change and so we also encourage our product designers to be innovative by having weekly meetings in which adventourous theories or experimental product ideas can be discussed and shared. \\
 
-{\bf Transport Team} - our transport team are responsible for moving our stalls and equipment to events and setting them up. They are also responsible for taking all equipment back to our nearest storage hold after it has been used. All candidates must have a full UK driving license and will be given relevant health and safety training on starting. Members of the transport team must be flexible as they will have different working hours depending on which events we are currently operating at. They may also have to transport our equipment from one storage depot to another when we require more equipment in a certain area of the country. \\
+  {\bf Transport Team} - our transport team are responsible for moving our stalls and equipment to events and setting them up. They are also responsible for taking all equipment back to our nearest storage hold after it has been used. All candidates must have a full UK driving license and will be given relevant health and safety training on starting. Members of the transport team must be flexible as they will have different working hours depending on which events we are currently operating at. They may also have to transport our equipment from one storage depot to another when we require more equipment in a certain area of the country. \\
 
-{\bf Finance Team} - our finance team are responsible for assessing our current finances, analysing what could be done better and producing financial projections. All canditates must have a strong mathematical background and the desire to make a positive difference to our company. As a business we do not want to rely on gut feelings as to what is optimal for our business but on real world data and mathematical models. Our finance team are therefore responsible for deciding how we should balance our spending as a company in order to increase our profit and the overall value of SubZero Ice. \\
+  {\bf Finance Team} - our finance team are responsible for assessing our current finances, analysing what could be done better and producing financial projections. All canditates must have a strong mathematical background and the desire to make a positive difference to our company. As a business we do not want to rely on gut feelings as to what is optimal for our business but on real world data and mathematical models. Our finance team are therefore responsible for deciding how we should balance our spending as a company in order to increase our profit and the overall value of SubZero Ice. \\
 
-{\bf Legal Team} - we will require a small team of specialised legal associates who can advise us on legal matters especially as our business grows and we receive more clients. Although members of the legal team will technically be external to the company, they will all be granted membership of the business cooperative and hence will be able to buy and sell shares within the company. \\
+  {\bf Legal Team} - we will require a small team of specialised legal associates who can advise us on legal matters especially as our business grows and we receive more clients. Although members of the legal team will technically be external to the company, they will all be granted membership of the business cooperative and hence will be able to buy and sell shares within the company. \\
 
-{\bf Voluntary Staff \& Students} - we are also looking for voluntary staff to help with the day to day running of SubZero Ice. We are currently in process of organising an internship and summer placement scheme for students. We feel that SubZero Ice has a lot to offer volunteers and our cooperative working environement ensures that our volunteers are respected and treated as equals by our staff.
-
-
-  \subsection{Facilities}
-
-  Currently all of our staff operate from our headquarters in central London.
-  We already own a small office in central London from which we operate.
-  Will need large office as number of staff increases.
-
-  Currently store equipment in a storage warehouse when not in use.
-  Will need new storage locations around the country to make access to equipment easier.
+  {\bf Voluntary Staff \& Students} - we are also looking for voluntary staff to help with the day to day running of SubZero Ice. We are currently in process of organising an internship and summer placement scheme for students. We feel that SubZero Ice has a lot to offer volunteers and our cooperative working environement ensures that our volunteers are respected and treated as equals by our staff.
 
 
 \section{Financial Plan \& Funding}
@@ -390,31 +405,33 @@ The graph below shows our cash flow projections for the next year of business. A
 
 \subsection{Funding}
 
-In order to ensure that our plans for growth succeed we are aiming to raise £1 million from donations and investors. This money will help us to develop new and exciting products, aid in research and operational costs, and ensure that all our members receive a fair salary. Additionally it will enable us to recruit more staff to further increase our business capacity.
+In order to ensure that our plans for growth succeed we are aiming to raise £1 million from donations and investors. This money will help us to develop new and exciting products, aid in research and operational costs, and ensure that all our members receive a fair salary. Additionally it will enable us to recruit more staff to further increase our business capacity. Ideally we are looking for investors who wish to support our cooperative and egalitarian ideals though we are willing to negotiate the details in order to come to a mutually rewarding agreement.
 
 \section{Risk Analysis \& Exit Strategy}
 
-%TODO
+In terms of market risk, there is the risk that the ice-cream market will not continue to develop and grow as we expect. Given this scenario it is possible that we may not be able to attract enough customers to make a profit and cover our overheads while also paying off our startup loan. However we feel this risk is fairly low given the success we have had during the previous six months and the current trends in the ice-cream market in general. Additionally we always have the opportunity to switch to the frozen yoghurt market using our existing equipment if at any time we feel that this may be more profitable. \\
 
-Little risk as we are already an established business, struggling to keep up with customer demands.
+When consiering people risk, our cooperative business structure makes it much easier for complaints, problems or general unhappiness to be ironed out quickly. Since we focus heavily on working in teams and actively encourage our employees to pass on skills to each other, we feel that there are no people assets which, if lost, would undermine the success of the company. \\
 
-If market changes rapidly. Look at options available to us. Other market segments we can move into.
+Financial risk is our greatest concern as there is the possibility that sales will not be as high as forcasted over the next three years, which could effectively ruin our plans for growth as the extra money we spend on new employees and resources may not be returned through increased sales. One of the main reasons that we are searching for investors during our growth period is to somewhat negate this risk and allow us a more comfortable period of expansion. \\
 
+In terms of competitive risk, there is a slight possibility that another brand could overtake us within our market niche, however we consider this to be highly unlikely considering our current reputation in the market and our already strong list of clients and contacts. The fact that we have patented our unique process also means that no-one can directly challenge our business using the same technology and ice-cream ingredients. \\
 
+Our exit strategy will depend heavily on how the market develops over the next few years and how that effects us financially. As already discussed we plan on switching to the frozen yoghurt market should our current ice-cream sales decline to a level which is financially unsustainable. Given that using science to make superior tasting food is a relatively young phenomenon we feel that there will be ample opportunity to develop new and exciting products in this sector, meaning we could potentially switch target markets many times if required. However if we ever reach the stage where continuing the business becomes unreasonable then, in keeping with our cooperative roots, we intend to split the value of the company between our members.
 
 \section{Corportate Information \& Contact Details}
 
-\bf{Address:} \\
+{\bf Address:} \\
 
-SubZero Ice
-Level 2-3 
-Langley House
-Langley Ln
-Vauxhall
-London
-SW8 1GB
+SubZero Ice \\
+Level 2-3 \\
+Langley House \\
+Langley Ln \\
+Vauxhall \\
+London \\
+SW8 1GB \\ 
 
-\bf{Contacts:} \\
+{\bf Contacts:} \\
 
 Public Relations \& Enquiries: 07856054971 | enquiries@subzeroice.coop \\
 
@@ -422,8 +439,6 @@ Event Requests: 07856054972 | events@subzeroice.coop \\
 
 Facebook www.facebook.com/SubZeroIce \\
 Twitter www.twitter.com/SubZeroIce
-
-\end{document}
 
 
 \section{Company History}
@@ -433,3 +448,6 @@ SubZero Ice started with a group of friends who had a love for ice-cream and a d
 \section{Apendix A - References}
 
 http://www.radicalroutes.org.uk/publicdownloads/setupaworkerscoop-lowres.pdf - For useful information on everything to do with workers' cooperative businesses.
+http://en.wikipedia.org/wiki/Common\_ownership - Information on the characteristics and history of common ownership enterprises.
+
+\end{document}

@@ -1,35 +1,36 @@
-\contentsline {section}{\numberline {1}Disclaimer}{3}
-\contentsline {section}{\numberline {2}Executive summary}{4}
-\contentsline {section}{\numberline {3}Vision statement}{4}
-\contentsline {section}{\numberline {4}Market Analysis}{5}
-\contentsline {subsection}{\numberline {4.1}Market Drivers and Trends}{5}
-\contentsline {subsection}{\numberline {4.2}Market Segments}{6}
-\contentsline {subsection}{\numberline {4.3}The Opportunity for SubZero Ice}{7}
-\contentsline {subsection}{\numberline {4.4}Target Markets}{7}
-\contentsline {section}{\numberline {5}Products and Services We Offer}{8}
-\contentsline {section}{\numberline {6}Business Model \& Structure}{9}
-\contentsline {subsection}{\numberline {6.1}Suppliers \& Distribution}{10}
-\contentsline {subsection}{\numberline {6.2}Current Equity Structure}{11}
-\contentsline {subsection}{\numberline {6.3}Technical Expertise}{11}
-\contentsline {section}{\numberline {7}Competition}{12}
-\contentsline {subsection}{\numberline {7.1}Competitive Advantages}{13}
-\contentsline {section}{\numberline {8}Intellectual Property Assets}{14}
-\contentsline {subsection}{\numberline {8.1}Patents}{14}
-\contentsline {subsection}{\numberline {8.2}Future Intellectual Property Development}{14}
-\contentsline {section}{\numberline {9}Business Development Plan}{14}
-\contentsline {subsection}{\numberline {9.1}Current Situation \& Resources}{14}
-\contentsline {subsection}{\numberline {9.2}Longterm \& Shorterm Goals}{14}
-\contentsline {subsection}{\numberline {9.3}Sales process}{14}
-\contentsline {subsection}{\numberline {9.4}Target customers}{14}
-\contentsline {subsection}{\numberline {9.5}Current key customers}{15}
-\contentsline {subsection}{\numberline {9.6}Marketing, PR and Communications}{15}
-\contentsline {subsection}{\numberline {9.7}Staff Recuritment}{15}
-\contentsline {subsection}{\numberline {9.8}Facilities}{17}
-\contentsline {section}{\numberline {10}Financial Plan \& Funding}{17}
-\contentsline {subsection}{\numberline {10.1}Financial History \& Startup Costs}{17}
-\contentsline {subsection}{\numberline {10.2}Projected Profit and Loss}{19}
-\contentsline {subsubsection}{\numberline {10.2.1}Pro Forma Profit and Loss}{19}
-\contentsline {subsection}{\numberline {10.3}Projected Cashflow}{21}
-\contentsline {subsection}{\numberline {10.4}Funding}{21}
-\contentsline {section}{\numberline {11}Risk Analysis \& Exit Strategy}{21}
-\contentsline {section}{\numberline {12}Corportate Information \& Contact Details}{21}
+\contentsline {section}{\numberline {1}Disclaimer}{2}
+\contentsline {section}{\numberline {2}Executive summary}{3}
+\contentsline {section}{\numberline {3}Vision statement}{3}
+\contentsline {section}{\numberline {4}Market Analysis}{4}
+\contentsline {subsection}{\numberline {4.1}Market Drivers and Trends}{4}
+\contentsline {subsection}{\numberline {4.2}Market Segments}{5}
+\contentsline {subsection}{\numberline {4.3}The Opportunity for SubZero Ice}{5}
+\contentsline {subsection}{\numberline {4.4}Target Markets}{5}
+\contentsline {section}{\numberline {5}Products and Services We Offer}{6}
+\contentsline {section}{\numberline {6}Business Model \& Structure}{6}
+\contentsline {subsection}{\numberline {6.1}Suppliers \& Distribution}{7}
+\contentsline {subsection}{\numberline {6.2}Current Equity Structure}{8}
+\contentsline {subsection}{\numberline {6.3}Technical Expertise}{8}
+\contentsline {section}{\numberline {7}Competition}{9}
+\contentsline {subsection}{\numberline {7.1}Competitive Advantages}{9}
+\contentsline {section}{\numberline {8}Intellectual Property Assets}{10}
+\contentsline {subsection}{\numberline {8.1}Patents}{10}
+\contentsline {subsection}{\numberline {8.2}Future Intellectual Property Development}{10}
+\contentsline {section}{\numberline {9}Business Development Plan}{10}
+\contentsline {subsection}{\numberline {9.1}Current Situation, Resources \& Facilities}{10}
+\contentsline {subsection}{\numberline {9.2}Longterm \& Shorterm Goals}{11}
+\contentsline {subsection}{\numberline {9.3}Sales process \& Pricing}{11}
+\contentsline {subsection}{\numberline {9.4}Target customers}{12}
+\contentsline {subsection}{\numberline {9.5}Current Key Customers \& Contacts}{12}
+\contentsline {subsection}{\numberline {9.6}Marketing, PR and Communications}{12}
+\contentsline {subsection}{\numberline {9.7}Staff Recuritment}{12}
+\contentsline {section}{\numberline {10}Financial Plan \& Funding}{14}
+\contentsline {subsection}{\numberline {10.1}Financial History \& Startup Costs}{14}
+\contentsline {subsection}{\numberline {10.2}Projected Profit and Loss}{15}
+\contentsline {subsubsection}{\numberline {10.2.1}Pro Forma Profit and Loss}{15}
+\contentsline {subsection}{\numberline {10.3}Projected Cashflow}{17}
+\contentsline {subsection}{\numberline {10.4}Funding}{17}
+\contentsline {section}{\numberline {11}Risk Analysis \& Exit Strategy}{17}
+\contentsline {section}{\numberline {12}Corportate Information \& Contact Details}{18}
+\contentsline {section}{\numberline {13}Company History}{18}
+\contentsline {section}{\numberline {14}Apendix A - References}{19}
