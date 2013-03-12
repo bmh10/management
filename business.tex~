@@ -16,7 +16,8 @@
 \textsc{\large Course 350: Management and Business for Computing Engineers} \\[0.5cm]
 
 \HRule \\[0.6cm]
-{\huge \bfseries SubZero Ice} \\[0.3cm]
+%{\huge \bfseries SubZero Ice} \\[0.3cm]
+\includegraphics[scale=1.0]{logo.png} \\
 \HRule \\[1.5cm]
 
 \begin{minipage}{0.4\textwidth}
